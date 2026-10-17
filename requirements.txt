@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib>=3.9
+scikit-learn
+xgboost
+pynascar   # only needed for fetch_data.ipynb

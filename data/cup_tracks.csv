@@ -1,0 +1,46 @@
+lr_track_name,rr_track_name,Alias,type,direction,length_miles,configuration,surface,turns,t1_t2_banking,t3_t3_banking,fornt_stretch,back_stretch,city,state,counrty
+Atlanta Motor Speedway,Atlanta Motor Speedway,EchoPark Speedway,super speedway,counter-clockwise,1.54,quad-oval,asphalt,4,28,28,5,5,Hampton,Georgia,USA
+Atlanta Motor Speedway (<2021),Atlanta Motor Speedway (<2021),,intermediate,counter-clockwise,1.54,quad-oval,asphalt,4,24,24,5,5,Hampton,Georgia,USA
+EchoPark Speedway,EchoPark Speedway,Atlanta Motor Speedway,super speedway,counter-clockwise,1.54,quad-oval,asphalt,4,28,28,5,5,Hampton,Georgia,USA
+Auto Club Speedway,Auto Club Speedway,California Speedway,intermediate,counter-clockwise,2,d-oval,asphalt,4,14,14,11,3,Fontana,California,USA
+Autódromo Hermanos Rodríguez,Autodromo Hermanos Rodriguez,,road course,clockwise,2.518,street,asphalt,15,,,,,Mexico City,,Mexico
+Bowman Gray Stadium,Bowman Gray Stadium,,short,counter-clockwise,0.25,oval,asphalt,4,0,0,0,0,Winton-Salem,North Carolina,USA
+Bristol Motor Speedway,Bristol Motor Speedway,,short,counter-clockwise,0.533,oval,concrete,4,prog: 26-30,prog: 26-30,prog: 6-10,prog: 6-10,Bristol,Tennessee,USA
+Bristol Motor Speedway Dirt,Bristol Motor Speedway Dirt Track,,short,counter-clockwise,0.533,oval,dirt,4,prog: 26-30,prog: 26-30,prog: 6-10,prog: 6-10,Bristol,Tennessee,USA
+Charlotte Motor Speedway,Charlotte Motor Speedway,,intermediate,counter-clockwise,1.5,quad-oval,asphalt,4,24,24,5,5,Concord,North Carolina,USA
+Charlotte Motor Speedway Road Course,Charlotte Motor Speedway Road Course,,road course,counter-clockwise,2.14,road,asphalt,17,,,,,Concord,North Carolina,USA
+Chicagoland Speedway,Chicagoland Speedway,,intermediate,counter-clockwise,1.5,tri-oval,asphalt,4,18,18,11,5,Joliet,Illinois,USA
+Chicago Street Race,Chicago Street Course,,street course,clockwise,2.2,street,concrete/asphalt,12,,,,,Chicago,Illinois,USA
+Circuit of The Americas,Circuit of the Americas,COTA,road course,counter-clockwise,2.362,road,asphalt,20,,,,,Austin,Texas,USA
+Darlington Raceway,Darlington Raceway,,intermediate,counter-clockwise,1.366,egg-oval,asphalt,4,25,23,3,2,Darlington,South Carolina,USA
+Daytona International Speedway,Daytona International Speedway,,super speedway,counter-clockwise,2.5,tri-oval,asphalt,4,31,31,18,2,Daytona,Florida,USA
+Dover Motor Speedway,Dover Motor Speedway,,short,counter-clockwise,1,oval,concrete,4,24,24,9,9,Dover,Delaware,USA
+Homestead-Miami Speedway,Homestead-Miami Speedway,,intermediate,counter-clockwise,1.5,oval,asphalt,4,prog: 18-20,prog: 18-20,3,3,Homestead,Florida,USA
+Indianapolis Motor Speedway,Indianapolis Motor Speedway,,intermediate,counter-clockwise,2.5,rectangular-oval,asphalt,4,9,9,0,0,Indianapolis,Indiana,USA
+Indianapolis Motor Speedway Road Course,Indianapolis Grand Prix Circuit,,road course,clockwise,2.439,road,asphalt,14,,,,,Indianapolis,Indiana,USA
+Iowa Speedway,Iowa Speedway,,short,counter-clockwise,0.875,d-oval,asphalt,4,prog: 12-14,prog: 12-14,10,4,Des Moines,Iowa,USA
+Kansas Speedway,Kansas Speedway,,intermediate,counter-clockwise,1.5,tri-oval,asphalt,4,prog: 17-20,prog: 17-20,prog: 9-11,5,Kansas City,Kansas,USA
+Las Vegas Motor Speedway,Las Vegas Motor Speedway,,intermediate,counter-clockwise,1.5,tri-oval,asphalt,4,20,20,12,9,Las Vegas,Nevada,USA
+Los Angeles Memorial Coliseum,,,short,counter-clockwise,0.25,oval,asphalt,4,2.5,2.5,2.5,2.5,Los Angeles,California,USA
+Martinsville Speedway,Martinsville Speedway,,short,counter-clockwise,0.526,paperclip-oval,concrete/asphalt,4,12,12,0,0,Martinsville,Virginia,USA
+Michigan International Speedway,Michigan International Speedway,,intermediate,counter-clockwise,2,d-oval,asphalt,4,18,18,12,5,Brooklyn,Michigan,USA
+Nashville Superspeedway,Nashville Superspeedway,,intermediate,counter-clockwise,1.333,tri-oval,concrete,4,14,14,8,5,Lebanon,Tennessee,USA
+New Hampshire Motor Speedway,New Hampshire Motor Speedway,,short,counter-clockwise,1.058,paperclip-oval,asphalt/granite,4,prog: 2-7,prog: 2-7,1,1,Loudon,New Hampshire,USA
+North Wilkesboro Speedway,North Wilkesboro Speedway,,short,counter-clockwise,0.625,oval,asphalt,4,14,14,3,3,North Wilkesboro,North Carolina,USA
+Phoenix Raceway,Phoenix Raceway,,intermediate,counter-clockwise,1,dogleg-oval,asphalt,5,8,prog: 10-11,3,10,Avondale,Arizona,USA
+Pocono Raceway,Pocono Raceway,,intermediate,counter-clockwise,2.5,trianglular-oval,asphalt,3,14,8,6,0,Long Pond,Pennsylvania,USA
+Richmond Raceway,Richmond Raceway,,short,counter-clockwise,0.94,d-oval,asphalt,4,14,14,8,2,Richmond,Virginia,USA
+San Diego Street Course,Naval Base Coronado,,street course,counter-clockwise,3.4,street,concrete/asphalt,16,,,,,San Diego,California,USA
+Sonoma Raceway,Sonoma Raceway,,road course,clockwise,1.99,road,asphalt,12,,,,,Sonoma,California,USA
+Talladega Superspeedway,Talladega Superspeedway,,super speedway,counter-clockwise,2.66,tri-oval,asphalt,4,33,33,14,3,Lincoln,Alabama,USA
+Texas Motor Speedway,Texas Motor Speedway,,intermediate,counter-clockwise,1.5,quad-oval,asphalt,4,20,24,3,3,Fort Worth,Texas,USA
+Watkins Glen International,Watkins Glen International,,road course,clockwise,2.45,road,asphalt,8,,,,,Watkins Glen,New York,USA
+World Wide Technology Raceway,World Wide Technology Raceway at Gateway,,intermediate,counter-clockwise,1.25,egg-oval,asphalt,4,11,9,3,3,Madison,Illinois,USA
+Portland International Raceway,Portland International Raceway,,road course,clockwise,1.967,road,concrete/asphalt,12,,,,,Portland,Oregon,USA
+Road America,Road America,,road course,clockwise,4.048,road,asphalt,14,,,,,Elkhart Lake,Wisconsin,USA
+Rockingham Speedway,Rockingham Speedway,,short,counter-clockwise,9.4,d-oval,concrete,4,22,25,8,8,Rockingham,North Carolina,USA
+Grand Prix of St. Petersburg,Streets of St. Petersburg,,street course,clockwise,1.8,street,concrete/asphalt,14,,,,,St Petersburg,Florida,USA
+Lime Rock Park,Lime Rock Park,,road course,clockwise,1.53,road,asphalt,7,,,,,Lakeville,Connecticut,USA
+Lucas Oil Indianapolis Raceway Park,Lucas Oil Indianapolis Raceway Park,,short,counter-clockwise,0.686,oval,asphalt,4,12,12,0,0,Brownsburg,Indiana,USA
+Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,,road course,clockwise,2.4,road,asphalt,13,,,,,Lexington,Ohio,USA
+Milwaukee Mile Speedway,Milwaukee Mile,,short,counter-clockwise,1.015,oval,asphalt,4,,,,,West Allis,Wisconsin,USA

@@ -1,0 +1,48 @@
+start_lap,end_lap,caution_type,comment,flag_state,race_id
+22,25,Competition,Competition,2,5031
+32,35,Accident,#15 Incident Turn 2,2,5031
+62,66,Competition,Stage 1 Conclusion,2,5031
+122,126,Accident,"Stage 2 Conclusion / #2, 3 Incident Frontstretch",2,5031
+181,186,Weather,Weather,2,5031
+188,192,Accident,"#6, 7, 8, 19, 20, 22, 34 Incident Turn 4",2,5031
+22,24,Competition,Competition Caution ,2,5170
+26,32,Accident,"#2, 10, 15, 18, 21, 34, 38, 45 and 47 Incident in Turn 2",2,5170
+47,51,Competition,Stage 1 Conclusion,2,5170
+99,105,Accident,#41 Incident on the Backstretch,2,5170
+110,113,Accident,#16 Incident in Turn 2,2,5170
+122,126,Competition,Stage 2 Conclusion,2,5170
+161,165,Accident,#1 and 20 Incident in Turn 4,2,5170
+16,19,Spin,#8 Spin Turn 2 / Competition,2,5296
+36,39,Accident,#9 Incident Turn 2,2,5296
+47,50,Competition,Stage 1 Conclusion,2,5296
+52,55,Spin,#42 Spin Turn 4,2,5296
+66,69,Spin,#20 Spin Turn 2,2,5296
+75,82,Unknown,"Precipitation [Red Flag: Lap 76, 19:05:18]",2,5296
+104,107,Debris,Debris Turn 2,2,5296
+122,126,Competition,Stage 2 Conclusion,2,5296
+128,133,Accident,"#34, 38, 48 Incident Backstretch",2,5296
+39,42,Spin,#11 Spins Turn 4,2,5415
+47,55,Competition,Stage 1 Conclusion [Red Flag: 17:15:18],2,5415
+110,115,Debris,Debris Turn 4,2,5415
+117,125,Accident,"#5, 14, 17, 20, 22, 23, 38 Incident Turn 4",2,5415
+137,141,Accident,"#7, 10 Incident Backstretch",2,5415
+196,199,Accident,#19 Incident Turn 4,2,5415
+201,204,Spin,#1 Spins Backstretch,2,5415
+47,52,Competition,Stage 1 Conclusion,2,5573
+61,65,Accident,"#4, 42 Incident Turn 2",2,5573
+68,70,Accident,"#2, 19, 41, 48, 99 Incident Turn 2 [Red Flag 0:11:32]",2,5573
+73,77,Accident,#42 Incident Turn 4,2,5573
+110,113,Accident,#12 Incident Turn 4,2,5573
+122,126,Competition,Stage 2 Conclusion,2,5573
+147,151,Accident,#34 Incident Turn 2,2,5573
+3,6,Spin,#88 Spin Turn 4,2,5612
+10,14,Accident,#88 Incident Turn 2,2,5612
+47,51,Competition,Stage 1 Conclusion,2,5612
+66,70,Unknown,#6 Slow On Track,2,5612
+79,82,Spin,#16 Spin Turn 2,2,5612
+84,89,Accident,"#3, 5, 11, 22, 23, 42, 45, 54, 77 Incident Frontstretch",2,5612
+91,93,Accident,#6 Incident Turn 2,2,5612
+122,126,Competition,Stage 2 Conclusion,2,5612
+143,147,Accident,#38 Incident Turn 1,2,5612
+149,153,Accident,"#9, 20 Incident Turn 4 [Red Flag: 00:20:31]",2,5612
+155,161,Accident,"#97, 21, 51, 4, 47, 71, 60, 10, 33 Incident Frontstretch",2,5612

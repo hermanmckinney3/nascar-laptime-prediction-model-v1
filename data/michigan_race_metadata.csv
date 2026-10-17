@@ -1,0 +1,116 @@
+race_id,series_id,race_season,race_name,race_type_id,restrictor_plate,track_id,track_name,date_scheduled,race_date,qualifying_date,tunein_date,scheduled_distance,actual_distance,scheduled_laps,actual_laps,stage_1_laps,stage_2_laps,stage_3_laps,number_of_cars_in_field,pole_winner_driver_id,pole_winner_speed,number_of_lead_changes,number_of_leaders,number_of_cautions,number_of_caution_laps,average_speed,total_race_time,margin_of_victory,race_purse,race_comments,attendance,infractions,schedule,radio_broadcaster,television_broadcaster,master_race_id,inspection_complete,playoff_round,is_qualifying_race,qualifying_race_no,qualifying_race_id,has_qualifying,winner_driver_id,pole_winner_laptime,scheduled_at,track_type,satellite_radio_broadcaster,stage_4_laps,stage_results,pit_reports,timing_run_id
+5031,1,2021,FireKeepers Casino 400,1,False,133,Michigan International Speedway,2021-08-22T15:00:00,2021-08-22T15:00:00,1900-01-01T00:00:00,2021-08-22T15:00:00,400.0,400.0,200,200,60,60,80,37,0,0.0,20,11,6,29,142.476,2:48:27,.077,0,"Ryan Blaney has won the FireKeepers Casino 400 at Michigan International Speedway, his sixth victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: No. 7 (Driver Change). ",0,[],"[{'event_name': 'Rookie Meeting', 'notes': 'Virtual', 'run_type': 0, 'start_time_utc': '2021-08-21T21:00:00'}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Virtual', 'run_type': 0, 'start_time_utc': '2021-08-21T21:30:00'}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'run_type': 0, 'start_time_utc': '2021-08-22T10:00:00'}
+ {'event_name': 'Garage Open', 'notes': '', 'run_type': 0, 'start_time_utc': '2021-08-22T12:00:00'}
+ {'event_name': 'VIP GARAGE ACCESS PERMITTED', 'notes': '', 'run_type': 0, 'start_time_utc': '2021-08-22T13:30:00'}
+ {'event_name': 'Drivers Report For Pre-Race', 'notes': 'Victory Lane', 'run_type': 0, 'start_time_utc': '2021-08-22T18:25:00'}
+ {'event_name': 'Driver Introductions', 'notes': '  ', 'run_type': 0, 'start_time_utc': '2021-08-22T18:30:00'}
+ {'event_name': 'Race', 'notes': 'Stages 60/120/200 Laps = 400 Miles ', 'run_type': 3, 'start_time_utc': '2021-08-22T19:00:00'}
+ {'event_name': 'Haulers Exit', 'notes': '', 'run_type': 0, 'start_time_utc': '2021-08-22T22:30:00'}]",MRN,NBCSN,930,True,0,False,0.0,-1.0,False,4023.0,,2021-08-22 15:00:00+00:00,superspeedway,,,,,
+5170,1,2022,FireKeepers Casino 400,1,False,133,Michigan International Speedway,2022-08-07T15:00:00,2022-08-07T15:00:00,2022-08-06T00:00:00,2022-08-07T15:00:00,400.0,400.0,200,200,45,75,80,37,4025,190.703,15,10,7,36,137.825,2:54:08,2.903,0,"Kevin Harvick won the FireKeepers Casino 400 at Michigan International Speedway, his 59th career NASCAR Cup Series victory. No cars dropped to the rear prior to the start of the race.",0,[],"[{'event_name': 'Rookie Meeting', 'notes': 'Virtual', 'run_type': 0, 'start_time_utc': '2022-08-05T20:30:00'}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Virtual', 'run_type': 0, 'start_time_utc': '2022-08-05T21:00:00'}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'run_type': 0, 'start_time_utc': '2022-08-05T23:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2022-08-06T11:30:00'}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'run_type': 0, 'start_time_utc': '2022-08-06T11:30:00'}
+ {'event_name': 'Practice', 'notes': 'Group A & B', 'run_type': 1, 'start_time_utc': '2022-08-06T16:35:00'}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group A & B / Single Vehicle, 1 Lap, 2 Rounds', 'run_type': 2, 'start_time_utc': '2022-08-06T17:20:00'}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'run_type': 0, 'start_time_utc': '2022-08-07T15:00:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2022-08-07T16:00:00'}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'run_type': 0, 'start_time_utc': '2022-08-07T17:30:00'}
+ {'event_name': 'Drivers Report For 1948', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2022-08-07T17:55:00'}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Procession To Stage', 'run_type': 0, 'start_time_utc': '2022-08-07T18:05:00'}
+ {'event_name': 'Driver Introductions', 'notes': 'Stage', 'run_type': 0, 'start_time_utc': '2022-08-07T18:15:00'}
+ {'event_name': 'Race', 'notes': 'Stages 45/120/200 Laps = 400 Miles', 'run_type': 3, 'start_time_utc': '2022-08-07T19:00:00'}
+ {'event_name': 'Haulers Exit', 'notes': '', 'run_type': 0, 'start_time_utc': '2022-08-07T23:30:00'}]",MRN,USA,930,True,0,False,0.0,-1.0,False,1416.0,,2022-08-07 15:00:00+00:00,superspeedway,SIRIUSXM,,,,
+5296,1,2023,FireKeepers Casino 400,1,False,133,Michigan International Speedway,2023-08-07T12:00:00,2023-08-06T14:30:00,2023-08-06T14:30:00,2023-08-07T12:00:00,400.0,400.0,200,200,45,75,80,37,4153,193.382,26,16,9,43,131.159,3:02:59,0.152,0,"Chris Buescher won the FireKeepers Casino 400 at Michigan International Speedway, his fourth NASCAR Cup Series victory. Prior to the start the following cars dropped to the rear of the field under penalty for the reason indicated: Nos. 7, 15, 42, 62 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Virtual', 'run_type': 0, 'start_time_utc': '2023-08-04T21:00:00'}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'run_type': 0, 'start_time_utc': '2023-08-05T01:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2023-08-05T11:30:00'}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'run_type': 0, 'start_time_utc': '2023-08-05T11:30:00'}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2023-08-05T14:30:00'}
+ {'event_name': 'Practice', 'notes': 'Group A & B', 'run_type': 1, 'start_time_utc': '2023-08-05T16:35:00'}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group A & B / Single Vehicle, 1 Lap, 2 Rounds', 'run_type': 2, 'start_time_utc': '2023-08-05T17:20:00'}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'run_type': 0, 'start_time_utc': '2023-08-06T14:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2023-08-06T15:30:00'}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2023-08-06T15:30:00'}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'run_type': 0, 'start_time_utc': '2023-08-06T17:00:00'}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Canceled', 'run_type': 0, 'start_time_utc': '2023-08-06T17:25:00'}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Canceled', 'run_type': 0, 'start_time_utc': '2023-08-06T17:35:00'}
+ {'event_name': 'Driver Introductions', 'notes': 'Pit Road', 'run_type': 0, 'start_time_utc': '2023-08-06T17:45:00'}
+ {'event_name': 'Race', 'notes': 'Postponed', 'run_type': 3, 'start_time_utc': '2023-08-06T18:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2023-08-07T13:00:00'}
+ {'event_name': 'Drivers Report To Vehicles', 'notes': 'Pit Road', 'run_type': 0, 'start_time_utc': '2023-08-07T15:50:00'}
+ {'event_name': 'Race', 'notes': 'Stages 45/120/200 Laps = 400 Miles', 'run_type': 3, 'start_time_utc': '2023-08-07T16:00:00'}
+ {'event_name': 'Haulers Exit', 'notes': '', 'run_type': 0, 'start_time_utc': '2023-08-07T20:30:00'}]",MRN,USA,930,True,0,False,0.0,-1.0,False,3989.0,,2023-08-06 14:30:00+00:00,superspeedway,SIRIUSXM,,,,
+5415,1,2024,FireKeepers Casino 400,1,False,133,Michigan International Speedway,2024-08-19T11:00:00,2024-08-18T14:30:00,2024-08-18T14:30:00,2024-08-19T11:00:00,400.0,412.0,200,206,45,75,86,36,1361,0.0,26,16,7,41,135.675,3:02:12,.168,0,"Tyler Reddick has won the FireKeepers Casino 400 at Michigan International Speedway, his seventh career victory in the NASCAR Cup Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Virtual', 'run_type': 0, 'start_time_utc': '2024-08-15T21:00:00'}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'run_type': 0, 'start_time_utc': '2024-08-16T15:00:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-16T17:00:00'}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-16T17:00:00'}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2024-08-17T14:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-17T14:30:00'}
+ {'event_name': 'Practice', 'notes': 'Timed | Group A: 20 Minutes / Group B: 20 Minutes', 'run_type': 1, 'start_time_utc': '2024-08-17T16:35:00'}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group A & B: Single Vehicle / 1 Lap / 2 Rounds', 'run_type': 2, 'start_time_utc': '2024-08-17T17:20:00'}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-18T14:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-18T15:30:00'}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2024-08-18T15:30:00'}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'run_type': 0, 'start_time_utc': '2024-08-18T17:00:00'}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2024-08-18T17:30:00'}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'run_type': 0, 'start_time_utc': '2024-08-18T17:40:00'}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'run_type': 0, 'start_time_utc': '2024-08-18T17:50:00'}
+ {'event_name': 'Race', 'notes': 'Postponed - 51 of 200 Laps Complete', 'run_type': 3, 'start_time_utc': '2024-08-18T18:30:00'}
+ {'event_name': 'Haulers Exit', 'notes': 'Postponed', 'run_type': 0, 'start_time_utc': '2024-08-18T23:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-19T13:00:00'}
+ {'event_name': 'Drivers Report To Vehicles', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-19T14:40:00'}
+ {'event_name': 'Race', 'notes': 'Stages 45/120/200 Laps = 400 Miles', 'run_type': 3, 'start_time_utc': '2024-08-19T15:00:00'}
+ {'event_name': 'Haulers Exit', 'notes': '', 'run_type': 0, 'start_time_utc': '2024-08-19T20:00:00'}]",MRN,USA,930,True,0,,,,,4065.0,,2024-08-18 14:30:00+00:00,superspeedway,SIRIUSXM,0.0,"[{'results': array([{'car_number': '12', 'driver_fullname': 'Ryan Blaney', 'driver_id': 4023, 'finishing_position': 1, 'stage_points': 10},
+        {'car_number': '9', 'driver_fullname': 'Chase Elliott', 'driver_id': 4062, 'finishing_position': 2, 'stage_points': 9},
+        {'car_number': '24', 'driver_fullname': 'William Byron', 'driver_id': 4184, 'finishing_position': 3, 'stage_points': 8},
+        {'car_number': '23', 'driver_fullname': 'Bubba Wallace', 'driver_id': 4025, 'finishing_position': 4, 'stage_points': 7},
+        {'car_number': '17', 'driver_fullname': 'Chris Buescher', 'driver_id': 3989, 'finishing_position': 5, 'stage_points': 6},
+        {'car_number': '8', 'driver_fullname': 'Kyle Busch', 'driver_id': 454, 'finishing_position': 6, 'stage_points': 5},
+        {'car_number': '6', 'driver_fullname': 'Brad Keselowski', 'driver_id': 1816, 'finishing_position': 7, 'stage_points': 4},
+        {'car_number': '19', 'driver_fullname': 'Martin Truex Jr', 'driver_id': 3368, 'finishing_position': 8, 'stage_points': 3},
+        {'car_number': '48', 'driver_fullname': 'Alex Bowman', 'driver_id': 4045, 'finishing_position': 9, 'stage_points': 2},
+        {'car_number': '1', 'driver_fullname': 'Ross Chastain', 'driver_id': 4001, 'finishing_position': 10, 'stage_points': 1}],
+       dtype=object), 'stage_number': 1}
+ {'results': array([{'car_number': '8', 'driver_fullname': 'Kyle Busch', 'driver_id': 454, 'finishing_position': 1, 'stage_points': 10},
+        {'car_number': '1', 'driver_fullname': 'Ross Chastain', 'driver_id': 4001, 'finishing_position': 2, 'stage_points': 9},
+        {'car_number': '54', 'driver_fullname': 'Ty Gibbs', 'driver_id': 4368, 'finishing_position': 3, 'stage_points': 8},
+        {'car_number': '24', 'driver_fullname': 'William Byron', 'driver_id': 4184, 'finishing_position': 4, 'stage_points': 7},
+        {'car_number': '3', 'driver_fullname': 'Austin Dillon', 'driver_id': 3873, 'finishing_position': 5, 'stage_points': 6},
+        {'car_number': '6', 'driver_fullname': 'Brad Keselowski', 'driver_id': 1816, 'finishing_position': 6, 'stage_points': 5},
+        {'car_number': '19', 'driver_fullname': 'Martin Truex Jr', 'driver_id': 3368, 'finishing_position': 7, 'stage_points': 4},
+        {'car_number': '43', 'driver_fullname': 'Erik Jones', 'driver_id': 4059, 'finishing_position': 8, 'stage_points': 3},
+        {'car_number': '15', 'driver_fullname': 'Cody Ware', 'driver_id': 4125, 'finishing_position': 9, 'stage_points': 2},
+        {'car_number': '12', 'driver_fullname': 'Ryan Blaney', 'driver_id': 4023, 'finishing_position': 10, 'stage_points': 1}],
+       dtype=object), 'stage_number': 2}                                                                                                ]",[],4.0
+5573,1,2025,FireKeepers Casino 400,1,False,133,Michigan International Speedway,2025-06-08T14:00:00,2025-06-08T14:00:00,2025-06-08T14:00:00,2025-06-08T14:00:00,400.0,400.0,200,200,45,75,80,36,4228,195.514,15,11,7,33,142.574,2:48:20,1.099,0,"Denny Hamlin won the FireKeepers Casino 400 at Michigan International Speedway, his 57th NASCAR Cup Series victory. Prior to the green flag, the following cars dropped to the rear of the field for the reasons indicated: No. 45 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'run_type': 0, 'start_time_utc': '2025-06-05T21:00:00'}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'run_type': 0, 'start_time_utc': '2025-06-06T14:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2025-06-06T16:30:00'}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'run_type': 0, 'start_time_utc': '2025-06-06T16:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2025-06-07T11:30:00'}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'run_type': 1, 'start_time_utc': '2025-06-07T13:30:00'}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'run_type': 2, 'start_time_utc': '2025-06-07T14:40:00'}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'run_type': 0, 'start_time_utc': '2025-06-08T14:00:00'}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'run_type': 0, 'start_time_utc': '2025-06-08T14:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2025-06-08T15:00:00'}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2025-06-08T15:00:00'}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'run_type': 0, 'start_time_utc': '2025-06-08T16:30:00'}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2025-06-08T17:00:00'}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'run_type': 0, 'start_time_utc': '2025-06-08T17:15:00'}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'run_type': 0, 'start_time_utc': '2025-06-08T17:25:00'}
+ {'event_name': 'Race', 'notes': 'Stages 45/120/200 Laps = 400 Miles', 'run_type': 3, 'start_time_utc': '2025-06-08T18:00:00'}
+ {'event_name': 'Haulers Exit', 'notes': '', 'run_type': 0, 'start_time_utc': '2025-06-08T23:00:00'}]",MRN,PRIME VIDEO,930,True,0,False,0.0,-1.0,False,1361.0,,2025-06-08 14:00:00+00:00,superspeedway,SIRIUSXM,,,,
+5612,1,2026,FireKeepers Casino 400,1,False,133,Michigan International Speedway,2026-06-07T15:00:00,2026-06-07T15:00:00,2026-06-07T15:00:00,2026-06-07T15:00:00,400.0,400.0,200,200,45,75,80,37,1361,195.117,23,11,11,54,123.935,3:13:39,11.110,0,"Denny Hamlin has won the FireKeepers Casino 400 at Michigan International Speedway, his 63rd victory in the NASCAR Cup Series annual exhibition event. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 2, 11, 20, 21, 24, 43 (Unapproved Adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'run_type': 0, 'start_time_utc': '2026-06-04T21:00:00'}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'run_type': 0, 'start_time_utc': '2026-06-06T12:00:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2026-06-06T15:00:00'}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2026-06-06T16:00:00'}
+ {'event_name': 'Practice', 'notes': ' ', 'run_type': 1, 'start_time_utc': '2026-06-06T21:00:00'}
+ {'event_name': 'Qualifying (Impound)', 'notes': ' ', 'run_type': 2, 'start_time_utc': '2026-06-06T22:10:00'}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'run_type': 0, 'start_time_utc': '2026-06-07T15:00:00'}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'run_type': 0, 'start_time_utc': '2026-06-07T15:30:00'}
+ {'event_name': 'Garage Hours', 'notes': '', 'run_type': 0, 'start_time_utc': '2026-06-07T16:00:00'}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'run_type': 0, 'start_time_utc': '2026-06-07T17:30:00'}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Michigan Room', 'run_type': 0, 'start_time_utc': '2026-06-07T18:05:00'}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'run_type': 0, 'start_time_utc': '2026-06-07T18:30:00'}
+ {'event_name': 'Race', 'notes': 'Stages 45/120/200 Laps = 400 Miles', 'run_type': 3, 'start_time_utc': '2026-06-07T19:00:00'}]",MRN,PRIME VIDEO,930,True,0,False,0.0,-1.0,False,1361.0,,2026-06-07 15:00:00+00:00,superspeedway,SIRIUSXM,,,,
