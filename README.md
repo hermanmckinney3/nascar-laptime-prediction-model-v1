@@ -353,7 +353,6 @@ The `data/` folder is included so the main notebook runs without re-pulling data
 
 ---
 
-Herman McKinney
-University of North Carolina at Greensboro
-M.S. Informatics & Analytics
+**Herman McKinney**<br>
+M.S. Informatics & Analytics, University of North Carolina at Greensboro<br>
 [LinkedIn](https://www.linkedin.com/in/herman-mckinney-090b93214) · [hermanmckinney3@gmail.com](mailto:hermanmckinney3@gmail.com)
